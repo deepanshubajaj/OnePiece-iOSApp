@@ -1,0 +1,360 @@
+[
+    {
+      "id": 1,
+      "name": "Romance Dawn",
+      "straw_hats": ["luffy"],
+      "details": "The Romance Dawn Arc is the first story arc of the One Piece manga. It introduces Monkey D. Luffy, who becomes a pirate in search of the legendary treasure known as One Piece. This arc sets the stage for Luffy's journey and establishes key themes of friendship, adventure, and the pursuit of dreams. Luffy's encounter with Shanks and the loss of his arm play a pivotal role in shaping his determination to become the Pirate King. As Luffy embarks on his quest, the arc showcases his initial encounters with other characters who will later become his crewmates and allies."
+    },
+    {
+      "id": 2,
+      "name": "Orange Town",
+      "straw_hats": ["luffy", "zoro", "sanji"],
+      "details": "The Orange Town Arc is the second story arc of the One Piece series. It follows Luffy and his crew as they encounter Buggy the Clown and navigate the challenges of Orange Town. This arc highlights Luffy's unconventional methods and determination to protect his friends and pursue his goals, even against formidable foes like Buggy. The arc also deepens the bond between Luffy, Zoro, and introduces Sanji, showcasing their unique skills and personalities. Through teamwork and resilience, they overcome Buggy's crew and protect the town, further solidifying Luffy's reputation as a bold and capable pirate."
+    },
+    {
+      "id": 3,
+      "name": "Syrup Village",
+      "straw_hats": ["luffy", "zoro", "nami", "usopp"],
+      "details": "The Syrup Village Arc follows the Straw Hat Pirates as they visit Usopp's hometown, Syrup Village, and face off against the notorious pirate Kuro. This arc explores themes of deception and loyalty as Usopp's past and motivations are revealed. Luffy and his crew intervene to protect Usopp's friends from Kuro's sinister plans, showcasing their growing camaraderie and willingness to stand up against injustice. The arc highlights Usopp's character development and his eventual decision to join the Straw Hat Pirates, marking a significant addition to Luffy's crew."
+    },
+    {
+      "id": 4,
+      "name": "Baratie",
+      "straw_hats": ["luffy", "zoro", "sanji"],
+      "details": "The Baratie Arc takes place at the floating restaurant Baratie, where the Straw Hat Pirates meet Sanji and face the pirate Don Krieg. This arc delves into Sanji's backstory and culinary skills, as well as his desire to find the All Blue, a legendary sea where all fish from around the world gather. Luffy's battle with Don Krieg showcases his determination and strength, while Sanji's loyalty to his newfound friends at the Baratie is tested. The arc also introduces the concept of the Grand Line's challenges and mysteries, setting the stage for future adventures."
+    },
+    {
+      "id": 5,
+      "name": "Arlong Park",
+      "straw_hats": ["luffy", "zoro", "sanji", "nami", "usopp"],
+      "details": "The Arlong Park Arc is centered around the conflict between the Straw Hat Pirates and the fish-man pirate Arlong, as they seek to free Nami's hometown, Cocoyasi Village, from his tyranny. This arc explores Nami's tragic past and her complicated relationship with Arlong, as well as her role as a navigator for the Straw Hat Pirates. Luffy's unwavering support for Nami and his fierce determination to defeat Arlong demonstrate his commitment to his crewmates and his willingness to challenge oppression. The arc culminates in a dramatic battle at Arlong Park, solidifying the Straw Hat Pirates' bond and Nami's decision to officially join the crew."
+    },
+    {
+      "id": 6,
+      "name": "Loguetown",
+      "straw_hats": ["luffy", "zoro", "nami", "usopp", "sanji"],
+      "details": "The Loguetown Arc is where the journey of the Straw Hat Pirates began, as they visit the birthplace of Gol D. Roger and encounter Smoker and the Marines. This arc marks a pivotal moment as Luffy and his crew prepare to enter the Grand Line, the treacherous sea where the One Piece treasure awaits. Loguetown is filled with significant revelations and encounters, including Luffy's confrontation with Buggy and the legendary execution platform where Roger met his end. The arc underscores the Straw Hat Pirates' determination to pursue their dreams despite the looming challenges ahead."
+    },
+    {
+      "id": 7,
+      "name": "Reverse Mountain",
+      "straw_hats": ["luffy", "zoro", "nami", "usopp", "sanji"],
+      "details": "The Reverse Mountain Arc follows the Straw Hat Pirates as they cross Reverse Mountain and enter the Grand Line for the first time. This arc introduces the concept of the Grand Line's unpredictable weather and sea routes, as well as the crew's initial encounters with its strange and powerful inhabitants. Navigating through Reverse Mountain requires teamwork and quick thinking, highlighting the Straw Hat Pirates' adaptability and resilience. The arc sets the stage for their epic journey into the unknown and reinforces their determination to reach the fabled One Piece."
+    },
+    {
+      "id": 8,
+      "name": "Whiskey Peak",
+      "straw_hats": ["luffy", "zoro", "nami", "usopp", "sanji"],
+      "details": "The Whiskey Peak Arc introduces the Straw Hat Pirates to the organization of bounty hunters known as Whiskey Peak, which hides a dangerous secret. This arc explores themes of deception and betrayal as the crew initially enjoys the hospitality of the island's inhabitants, only to discover their true intentions. Luffy's clash with the bounty hunters and Zoro's duel with the Baroque Works agent Mr. 5 and Miss Valentine showcase their combat skills and unwavering loyalty to each other. The arc marks the crew's first encounter with the mysterious organization Baroque Works, setting the stage for future conflicts."
+    },
+    {
+      "id": 9,
+      "name": "Little Garden Arc",
+      "straw_hats": ["luffy", "zoro", "nami", "usopp", "sanji"],
+      "details": "The Little Garden Arc takes place on an island inhabited by prehistoric creatures, where the Straw Hat Pirates face off against two powerful bounty hunters, Mr. 5 and Miss Valentine. This arc showcases the crew's resourcefulness and courage as they navigate the dangers of Little Garden and uncover its ancient mysteries. Luffy's battle with the giants Dorry and Brogy highlights his determination and strength, while the crew's encounters with Baroque Works agents add intrigue to the storyline. The arc concludes with the crew's departure towards their next destination, continuing their journey through the Grand Line."
+    },
+    {
+      "id": 10,
+      "name": "Drum Island Arc",
+      "straw_hats": ["luffy", "zoro", "nami", "usopp", "sanji"],
+      "details": "The Drum Island Arc follows the Straw Hat Pirates as they journey to the freezing Drum Island, where they meet the enigmatic Dr. Kureha and confront the tyrannical ruler, Wapol. This arc explores themes of survival and sacrifice as the crew navigates the harsh winter landscape and encounters the island's diverse inhabitants. Luffy's determination to help a sick young girl, Nami's friendship with Dr. Kureha, and Sanji's clash with the royal guards highlight the crew's compassion and resilience. The arc culminates in a dramatic showdown with Wapol and his forces, solidifying the crew's reputation as defenders of justice."
+    },
+    {
+      "id": 11,
+      "name": "Alabasta Arc",
+      "straw_hats": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper"],
+      "details": "The Alabasta Arc is a pivotal storyline where the Straw Hat Pirates become embroiled in a rebellion against the evil Warlord of the Sea, Crocodile, in the desert kingdom of Alabasta. This arc explores themes of justice and tyranny as the crew allies with Princess Vivi and her loyal subjects to thwart Crocodile's plans. Luffy's epic battles with Crocodile and his resilience in the face of adversity demonstrate his growth as a leader and his unwavering determination to protect his friends. The arc's conclusion marks a significant victory for the crew and reinforces their commitment to challenging the world's injustices."
+    },
+    {
+      "id": 12,
+      "name": "Jaya Arc",
+      "straw_hats": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper"],
+      "details": "The Jaya Arc sets the stage for the Sky Island Saga as the Straw Hat Pirates hear rumors of a fabled island in the sky and clash with the Bellamy Pirates. This arc explores themes of dreams and determination as the crew pursues their goal of reaching Sky Island amidst skepticism and opposition from other pirates. Luffy's confrontation with Bellamy and his unwavering belief in the existence of Sky Island showcase his fearless nature and boundless optimism. The arc introduces key allies and adversaries who will shape future events, laying the groundwork for the crew's next great adventure."
+    },
+    {
+      "id": 13,
+      "name": "Skypiea Arc",
+      "straw_hats": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper"],
+      "details": "The Skypiea Arc follows the Straw Hat Pirates as they journey to the mystical Sky Island and uncover its hidden treasures and ancient mysteries. This arc explores themes of exploration and cultural clashes as the crew navigates the unique challenges of Skypiea's floating islands and confronts the tyrannical ruler, Enel. Luffy's epic battle with Enel and his determination to protect the Skypieans demonstrate his unwavering sense of justice and compassion for the oppressed. The arc culminates in a dramatic showdown that reshapes the lives of Skypiea's inhabitants and solidifies the crew's legacy as heroes of the sky."
+    },
+    {
+      "id": 14,
+      "name": "G-8 Arc",
+      "straw_hats": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper"],
+      "details": "The G-8 Arc takes place immediately after the events of Skypiea, as the Straw Hat Pirates inadvertently enter a Marine base and must outwit Vice Admiral Jonathan and his subordinates to escape. This arc showcases the crew's ingenuity and teamwork as they navigate the base's elaborate traps and disguise themselves to evade capture. Luffy's unconventional strategies and Zoro's combat prowess play key roles in outmaneuvering their pursuers, while the crew's loyalty to each other and their determination to continue their journey shine through. The arc concludes with the crew's narrow escape and sets the stage for their next adventure."
+    },
+    {
+      "id": 15,
+      "name": "Long Ring Long Land Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin"
+      ],
+      "details": "The Long Ring Long Land Arc follows the Straw Hat Pirates as they encounter the bizarre Foxy Pirates and participate in the Davy Back Fight, a series of pirate games with unusual rules. This arc explores themes of sportsmanship and rivalry as the crew competes against Foxy and his underhanded tactics. Luffy's determination to win back their crewmates and his refusal to back down in the face of challenges highlight his competitive spirit and leadership qualities. The arc showcases the crew's diverse skills and personalities while emphasizing their unity in facing formidable adversaries."
+    },
+    {
+      "id": 16,
+      "name": "Water 7 Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky"
+      ],
+      "details": "The Water 7 Arc is a dramatic storyline where the Straw Hat Pirates arrive at Water 7 to repair their ship, the Going Merry. However, they encounter unexpected challenges as suspicion and betrayal threaten to tear the crew apart. The arc delves into themes of trust and sacrifice as the crew navigates the intricate politics of Water 7 and faces off against the formidable CP9. Luffy's unwavering loyalty to his crew and determination to protect his friends drive the narrative forward, culminating in an emotional confrontation and a heartbreaking decision regarding their beloved ship. The Water 7 Arc showcases the crew's resilience and bonds as they emerge stronger from their trials, setting the stage for future adventures."
+    },
+    {
+      "id": 17,
+      "name": "Enies Lobby Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky"
+      ],
+      "details": "The Enies Lobby Arc is an intense battle against the World Government as the Straw Hat Pirates storm the judicial island to rescue Nico Robin. This arc is marked by high stakes and emotional depth as the crew confronts the CP9, a group of formidable assassins, to save their friend. Luffy's determination to defy the world government and his refusal to abandon his crewmate highlight his unwavering sense of justice and loyalty. The arc features epic battles and shocking revelations that challenge the crew both physically and emotionally. As the Straw Hat Pirates face overwhelming odds, they demonstrate their unity and strength, cementing their reputation as a force to be reckoned with in the world of pirates."
+    },
+    {
+      "id": 18,
+      "name": "Thriller Bark",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook"
+      ],
+      "details": "The Thriller Bark Arc unfolds on a mysterious haunted ship as the Straw Hat Pirates encounter the Warlord of the Sea, Gecko Moria. This arc combines horror elements with comedic moments as the crew navigates the bizarre and perilous environment of Thriller Bark. Luffy's fearless attitude and determination to protect his crewmates drive the narrative forward, leading to epic battles against powerful adversaries like Moria and his zombie minions. The arc also introduces Brook, a skeletal musician with a tragic past, who joins the crew in their adventures. With themes of camaraderie and facing one's fears, the Thriller Bark Arc showcases the Straw Hat Pirates' resilience and bonds as they overcome supernatural challenges."
+    },
+    {
+      "id": 19,
+      "name": "Sabaody Archipelago Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook"
+      ],
+      "details": "The Sabaody Archipelago Arc explores the darker side of the world as the Straw Hat Pirates encounter the Celestial Dragons and face the wrath of Admiral Kizaru. This arc highlights themes of discrimination and power dynamics as the crew navigates the chaotic and dangerous archipelago. Luffy's defiance against injustice and his determination to protect his friends lead to a confrontation with powerful adversaries, showcasing his growth as a captain. The arc culminates in a devastating event that separates the crew and tests their resolve like never before. As the Straw Hat Pirates face overwhelming odds, they reaffirm their bonds and prepare for future challenges in the unpredictable world of pirates."
+    },
+    {
+      "id": 20,
+      "name": "Amazon Lily Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin"
+      ],
+      "details": "The Amazon Lily Arc follows Luffy's adventures on an island inhabited only by women, where he meets the fearsome Warlord of the Sea, Boa Hancock. This arc explores themes of gender dynamics and cultural differences as Luffy navigates the unique challenges of Amazon Lily. Luffy's unintentional charm and straightforward nature lead to humorous and dramatic encounters with Hancock and the island's inhabitants. The arc showcases Luffy's determination to pursue his goals and protect his friends, even in unfamiliar and dangerous situations. As Luffy forms alliances and faces off against powerful adversaries, he leaves a lasting impact on Amazon Lily and sets the stage for future adventures in the New World."
+    },
+    {
+      "id": 21,
+      "name": "Impel Down Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook"
+      ],
+      "details": "The Impel Down Arc is a harrowing journey into the depths of the world's most secure prison as Luffy attempts to rescue his brother, Ace, before his execution. This arc is marked by intense action and emotional depth as Luffy navigates through the levels of Impel Down, facing formidable enemies and forming alliances with unlikely allies. Luffy's unwavering determination to save Ace and his willingness to take on insurmountable odds highlight his growth as a pirate and a leader. The arc explores themes of loyalty and sacrifice as Luffy challenges the boundaries of justice and confronts powerful adversaries in his quest to reunite with his brother. As Luffy races against time, the Impel Down Arc showcases his resilience and the bonds he forms on his journey."
+    },
+    {
+      "id": 22,
+      "name": "Marineford Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook"
+      ],
+      "details": "The Marineford Arc is a monumental battle between the Whitebeard Pirates, the Navy, and the Warlords of the Sea as Luffy tries to save Ace from his fate. This arc is filled with epic clashes and heartbreaking moments as Luffy and his allies face overwhelming forces in their desperate attempt to rescue Ace. Luffy's determination to defy fate and protect his brother drives the narrative forward, leading to emotional confrontations and tragic losses. The arc explores themes of family, sacrifice, and the consequences of one's actions as Luffy confronts the harsh realities of piracy and war. As the battle reaches its climax, Luffy's resolve is tested like never before, setting the stage for profound changes in the world of One Piece."
+    },
+    {
+      "id": 23,
+      "name": "Post-War Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook"
+      ],
+      "details": "The Post-War Arc explores the aftermath of the devastating Battle of Marineford as the Straw Hat Pirates regroup and plan their next moves. This arc delves into themes of recovery and redemption as the crew comes to terms with the events of Marineford and reflects on their journey so far. Luffy's determination to continue pursuing his dream and protect his friends remains unwavering, despite the losses suffered. The arc also explores the broader implications of the battle on the world stage and introduces new challenges and adversaries for the crew to overcome. As the Straw Hat Pirates embark on their next adventure, they carry with them the lessons learned and the bonds forged in the crucible of war."
+    },
+    {
+      "id": 24,
+      "name": "Return to Sabaody Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook"
+      ],
+      "details": "The Return to Sabaody Arc sees the Straw Hat Pirates reunite and face off against the New Fish-Man Pirates in an attempt to rescue their crewmate, Camie. This arc explores themes of prejudice and unity as the crew confronts the racial tensions simmering beneath the surface of Sabaody Archipelago. Luffy's determination to protect his friends and stand up against injustice drives the narrative forward, leading to epic battles and unexpected alliances. The arc also delves into the Straw Hat Pirates' growth and evolution as they confront new challenges in the New World. As the crew faces off against powerful adversaries, they reaffirm their bonds and prepare for the dangers ahead."
+    },
+    {
+      "id": 25,
+      "name": "Fish-Man Island Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook"
+      ],
+      "details": "The Fish-Man Island Arc takes place underwater and explores the racial tensions between fish-men and humans, as well as the plans of the sinister Hody Jones. This arc delves into themes of prejudice, equality, and coexistence as the Straw Hat Pirates navigate the underwater kingdom of Fish-Man Island. Luffy's determination to protect his friends and stand up against oppression drives the narrative forward, leading to epic battles and profound revelations. The arc also highlights the crew's alliances with the inhabitants of Fish-Man Island and their efforts to create a better world. As Luffy confronts powerful adversaries and challenges the status quo, he leaves a lasting impact on Fish-Man Island and sets the stage for future adventures."
+    },
+    {
+      "id": 26,
+      "name": "Punk Hazard Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook"
+      ],
+      "details": "The Punk Hazard Arc unfolds on an island that was once the site of an experiment conducted by the infamous scientist Vegapunk. The Straw Hat Pirates encounter a mysterious gas that splits the island into two opposing climates: fire and ice. This arc delves into themes of environmental manipulation and scientific ethics as the crew investigates the island's secrets. Luffy's determination to protect the inhabitants and uncover the truth drives the narrative forward, leading to battles against powerful adversaries and unexpected alliances. The arc also introduces key players in the ongoing conflict between the Marines and the pirate alliance led by Trafalgar Law. As Luffy and his crew navigate through treacherous terrain and face off against dangerous opponents, they uncover startling revelations that will shape future events."
+    },
+    {
+      "id": 27,
+      "name": "Dressrosa Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook"
+      ],
+      "details": "The Dressrosa Arc is a sprawling saga set on an island governed by the tyrannical Warlord of the Sea, Donquixote Doflamingo. The Straw Hat Pirates arrive in Dressrosa to disrupt Doflamingo's operations and liberate its oppressed citizens. This arc explores themes of corruption, rebellion, and the consequences of unchecked power as Luffy and his allies challenge a powerful adversary. Luffy's determination to bring justice and freedom to Dressrosa drives the narrative forward, leading to epic battles and unexpected alliances. The arc also delves into the backstory of key characters and reveals connections to broader conspiracies within the world of pirates and government factions. As Luffy confronts formidable enemies and faces moral dilemmas, he solidifies his reputation as a force of change in the New World."
+    },
+    {
+      "id": 28,
+      "name": "Zou Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook"
+      ],
+      "details": "The Zou Arc takes place on the back of a massive elephant that serves as a home for the Mink Tribe, a race of humanoid animals. The Straw Hat Pirates arrive at Zou seeking allies and information about the elusive samurai, Kozuki Momonosuke. This arc explores themes of loyalty, secrecy, and the legacy of the Kozuki clan as Luffy and his crew navigate through the unique and perilous environment of Zou. Luffy's determination to uncover the truth and protect his friends drives the narrative forward, leading to alliances with the Mink Tribe and clashes with new adversaries. The arc also reveals key revelations about the ongoing conflicts in the world of One Piece and sets the stage for future alliances and battles in the larger story."
+    },
+    {
+      "id": 29,
+      "name": "Whole Cake Island Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "jinbe"
+      ],
+      "details": "The Whole Cake Island Arc is a dramatic saga set in the territory of the Yonko, Big Mom, as the Straw Hat Pirates infiltrate her territory to rescue their crewmate, Sanji, and thwart a political marriage. This arc explores themes of family, betrayal, and culinary extravagance as Luffy and his allies navigate through the perilous and whimsical terrain of Whole Cake Island. Luffy's determination to rescue Sanji and challenge Big Mom's authority drives the narrative forward, leading to intense battles and surprising alliances. The arc also delves into the backstory of key characters and reveals the complex dynamics between powerful pirate factions and government entities. As Luffy faces off against formidable foes and tests his limits, he reaffirms his commitment to his crew and his dream of becoming the Pirate King."
+    },
+    {
+      "id": 30,
+      "name": "Reverie Arc",
+      "straw_hats": [],
+      "details": "The Reverie Arc shifts focus to the gathering of world leaders and royalty at the Reverie, a council that discusses global affairs and the balance of power in the world. This arc explores themes of politics, diplomacy, and the consequences of past actions as various factions and nations converge to address pressing issues. The Straw Hat Pirates' allies and enemies make their moves behind the scenes, setting the stage for future conflicts and alliances. While Luffy and his crew are not directly involved in the Reverie proceedings, the arc provides crucial context and foreshadowing for the events to come in the world of One Piece."
+    },
+    {
+      "id": 31,
+      "name": "Wano",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "jinbe"
+      ],
+      "details": "The Wano Country Arc takes place in a secluded nation inspired by feudal Japan, ruled by the tyrannical Shogun Orochi and the pirate emperor Kaido. The Straw Hat Pirates arrive in Wano seeking allies and plotting to overthrow the oppressive regime. This arc explores themes of rebellion, honor, and the consequences of history as Luffy and his allies navigate through the samurai culture and political intrigue of Wano. Luffy's determination to liberate Wano and fulfill his promise to his allies drives the narrative forward, leading to epic battles and unexpected alliances. The arc also delves into the backstory of key characters and reveals connections to the broader mysteries of the One Piece world. As Luffy faces off against powerful adversaries and confronts his own limitations, he embodies the spirit of a true warrior and sets the stage for a revolution in Wano."
+    },
+    {
+      "id": 32,
+      "name": "Egg Head Arc",
+      "straw_hats": [
+        "luffy",
+        "zoro",
+        "nami",
+        "usopp",
+        "sanji",
+        "chopper",
+        "robin",
+        "franky",
+        "brook",
+        "jinbe"
+      ],
+      "details": "In the Egg Head Arc, the Straw Hat Pirates encounter a mysterious island where all inhabitants have unusually large heads resembling eggs. They must unravel the island's secrets while facing off against a quirky villain obsessed with egg-themed weapons. This arc combines humor with adventure as Luffy and his crew navigate through bizarre challenges and unexpected alliances. Luffy's determination to protect the innocent and uncover the truth drives the narrative forward, leading to encounters with unique characters and memorable moments. The arc explores themes of identity and eccentricity in the world of One Piece, showcasing the Straw Hat Pirates' adaptability and camaraderie."
+    }
+  ]
+  
