@@ -1,7 +1,5 @@
 <h1 align="center">🏴‍☠️ OnePiece - iOS App</h1>
 
-##
-
 **OnePiece** is a fan-made iOS app that brings the world of **One Piece** to your fingertips. Designed for anime enthusiasts, this app provides detailed information about all major story arcs in the series and the iconic characters from the **Straw Hat Crew**. Whether you’re a long-time fan or just getting started, OnePiece makes it easy to explore the epic saga.
 
 ---
@@ -212,7 +210,7 @@ Here’s a short video showcasing the app's functionality:
 Thank you for your interest in contributing to this project!  
 I welcome contributions from the community.
 
-- You are free to use, modify, and redistribute this code under the terms of the **Apache License**.
+- You are free to use, modify, and redistribute this code under the terms of the **Apache-2.0 License**.
 - If you'd like to contribute, please **open an issue** or **submit a pull request**.
 - All contributions will be reviewed and approved by the author — **[Deepanshu Bajaj](https://github.com/deepanshubajaj?tab=overview&from=2025-03-01&to=2025-03-31)**.
 
@@ -220,7 +218,7 @@ I welcome contributions from the community.
 
 ## 📃 License
 
-This project is licensed under the [Apache License](./LICENSE).  
+This project is licensed under the [Apache-2.0 License](./LICENSE).  
 You are free to use this project for personal, educational, or commercial purposes — just make sure to provide proper attribution.
 
 > **Clarification:** Commercial use includes, but is not limited to, use in products,  
