@@ -196,7 +196,7 @@ To run this project locally:
 Here’s a short video showcasing the app's functionality:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" width="35%" />
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideo.gif" alt="Working App" width="35%" />
 </p>
 
 ➤ <a href="ProjectOutputs/WorkingVideo/splashScreenVideo.MOV">🎬 Watch Splash Screen Video</a>
