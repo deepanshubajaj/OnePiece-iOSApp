@@ -1,6 +1,6 @@
 <h1 align="center">🏴‍☠️ OnePiece - iOS App</h1>
 
-**OnePiece** is a fan-made iOS app that brings the world of **One Piece** to your fingertips. Designed for anime enthusiasts, this app provides detailed information about all major story arcs in the series and the iconic characters from the **Straw Hat Crew**. Whether you’re a long-time fan or just getting started, OnePiece makes it easy to explore the epic saga.
+**OnePiece** is an iOS app that brings the world of **One Piece** directly to its fans. Designed for anime enthusiasts, this app provides detailed information about all major story arcs in the series and the iconic characters from the **Straw Hat Crew**. Whether you’re a long-time fan or just getting started, OnePiece makes it easy to explore the epic saga.
 
 ---
 
