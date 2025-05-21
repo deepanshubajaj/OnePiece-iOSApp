@@ -10,5 +10,5 @@ with open(path, 'r') as file:
         lowercase_straw_hats = [hat.lower() for hat in straw_hats]
         i["straw_hats"] = lowercase_straw_hats
 
-with open("/Users/maniklakhanpal/OnePiece/OnePiece/Arcs.json", 'w') as file:
+with open("/Users/deepanshubajaj/OnePiece/OnePiece/Arcs.json", 'w') as file:
     json.dump(content, file)
