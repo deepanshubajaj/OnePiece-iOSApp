@@ -1,6 +1,6 @@
 import json
 
-path = "/Users/maniklakhanpal/OnePiece/OnePiece/Arcs.json"
+path = "/Users/deepanshubajaj/OnePiece/OnePiece/Arcs.json"
 
 with open(path, 'r') as file:
     content = json.load(file)
